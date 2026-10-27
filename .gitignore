@@ -1,0 +1,13 @@
+build/
+build-*/
+dist/
+node_modules/
+*.o
+*.obj
+*.exe
+*.wasm
+*.data
+*.js
+*.html
+!.gitkeep
+.DS_Store
